@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bhimavarapu Mohan Sai!
+# 👋 Hello, I'm Mohan Bhimavarapu !!         ![MY GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNscTZwbmR1ODY2aGVmOWR6cjkwdTJ5ZTN4NXY5cTd3NW16MnFvNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp)
 
 🔧 DevSecOps Engineer | 🏢 TCS | 📍 Hyderabad, India  
 Passionate about building secure, scalable, and automated cloud-native systems. I specialize in integrating security into CI/CD pipelines, provisioning infrastructure as code, and orchestrating containers with Kubernetes.
@@ -7,7 +7,7 @@ Passionate about building secure, scalable, and automated cloud-native systems. 
 
 ## 🚀 About Me
 
-- 🧠 4+ years of experience in DevOps & Cloud Engineering
+- 🧠 4+ years of experience in DevOps & Cloud Engineering                    
 - ☁️ Expert in AWS, Jenkins, Terraform, Kubernetes
 - 🔐 Advocate for DevSecOps and secure automation
 - 📈 Improved deployment frequency by 30% and reduced infra provisioning time by 30%
@@ -41,9 +41,9 @@ Passionate about building secure, scalable, and automated cloud-native systems. 
 
 | Concept | Preview |
 |--------|---------|
-| CI/CD Pipeline | ![CI/CD GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| CI/CD Pipeline | ![CI/CD GIF](https://www.donaldonsoftware.com/images/pipeline.gif) |
 | Kubernetes Orchestration | ![K8s GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) |
-| Cloud Monitoring | ![Monitoring GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) |
+| Cloud Monitoring | ![Monitoring GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpwazB3cnppMXQyOGNyOGI3ZHk3a2xseDkweXFtMXRid3BsdzFmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6AlK10KuTyToP2wmn8/giphy.webp) |
 | Terraform Scripting | ![Monitoring GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif) |
 
 ---
